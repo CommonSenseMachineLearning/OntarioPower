@@ -8,12 +8,12 @@ Data science analysis of Ontario electricity supply and demand
 - Source: [IESO](http://reports.ieso.ca/public/DemandZonal/)
 
 #### List of Demand Data Files Names
-- Pub_DemandZonal_2015
-- Pub_DemandZonal_2016
-- Pub_DemandZonal_2017
-- Pub_DemandZonal_2018
-- Pub_DemandZonal_2019
-- Pub_DemandZonal_2020
+  - Pub_DemandZonal_2015
+  - Pub_DemandZonal_2016
+  - Pub_DemandZonal_2017
+  - Pub_DemandZonal_2018
+  - Pub_DemandZonal_2019
+  - Pub_DemandZonal_2020
 
 - Data Coverage: Hourly zonal demand summarries from 2015 to 2020
 
