@@ -1,13 +1,10 @@
-# OntarioPower
-Data science analysis of Ontario electricity supply and demand
+# Ontario Power Supply and Demand Analysis
+Machine Learning analysis of Ontario electricity supply and demand
 
-## Data Sources
+## Data Source: [IESO (Independent Electricity Supply Operator)](http://www.ieso.ca)
 
-### 1. Power Demand Data
+- [Hourly Demand Data Files](http://reports.ieso.ca/public/DemandZonal/)
 
-- Source: [IESO](http://reports.ieso.ca/public/DemandZonal/)
-
-- List of Demand Data Files Names:
   - Pub_DemandZonal_2015.csv
   - Pub_DemandZonal_2016.csv
   - Pub_DemandZonal_2017.csv
@@ -15,23 +12,11 @@ Data science analysis of Ontario electricity supply and demand
   - Pub_DemandZonal_2019.csv
   - Pub_DemandZonal_2020.csv
 
-- Data Coverage: Hourly zonal demand summarries from 2015 to 2020
+- [Hourly Supply Data Files](http://reports.ieso.ca/public/GenOutputbyFuelHourly/)
 
-### 2. Power Supply Data
-
-- Source: [IESO](http://reports.ieso.ca/public/GenOutputbyFuelHourly/)
-
-- List of Supply Data Files Names:
-  - 2015 Power Supply.csv
-  - 2016 Power Supply.csv
-  - 2017 Power Supply.csv
-  - 2018 Power Supply.csv
-  - 2019 Power Supply.csv
-  - 2020 Power Supply.csv
-
-- Data Coverage: Generator output by fuel type hourly summarries from 2015 to 2020
-
-
-
-
-
+  - PUB_GenOutputbyFuelHourly_2015.xml
+  - PUB_GenOutputbyFuelHourly_2016.xml
+  - PUB_GenOutputbyFuelHourly_2017.xml
+  - PUB_GenOutputbyFuelHourly_2018.xml
+  - PUB_GenOutputbyFuelHourly_2019.xml
+  - PUB_GenOutputbyFuelHourly_2020.xml
