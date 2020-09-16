@@ -22,12 +22,12 @@ Data science analysis of Ontario electricity supply and demand
 - Source: [IESO](http://reports.ieso.ca/public/GenOutputbyFuelHourly/)
 
 - List of Supply Data Files Names:
- - 2015 Power Supply
- - 2016 Power Supply
- - 2017 Power Supply
- - 2018 Power Supply
- - 2019 Power Supply
- - 2020 Power Supply
+  - 2015 Power Supply
+  - 2016 Power Supply
+  - 2017 Power Supply
+  - 2018 Power Supply
+  - 2019 Power Supply
+  - 2020 Power Supply
 
 - Data Coverage: Generator output by fuel type hourly summarries from 2015 to 2020
 
