@@ -21,10 +21,10 @@ Machine Learning analysis of Ontario electricity supply and demand
   - PUB_GenOutputbyFuelHourly_2019.xml
   - PUB_GenOutputbyFuelHourly_2020.xml
   
-  ## Initial Questions
-  1. What is the forecasts of expected demand and available generation, for years ahead?
-  2. What is the forecasts of expected price of consumption power for a year ahead?
-  3. How do the consumption of power change in winter and summer?
-  4. How do the temperature affect the demand of power? 
-  5. What is the forecasts of expected demand and available generation power regarding on regions, for years ahead?
-  6. How will the energy resources' proportion change for five years ahead?  
+ ## Potential Questions
+ 1. Can we forecast future supply and demand by region? (How far?)
+ 2. Can we forecast electiricity price? (How far?)
+ 3. How does the consumption of power change in winter and summer? (Seasonality)
+ 4. How does temperature affect the demand for power? 
+ 5. How will the mix of sustainable energy sources change over time? (Wind, solar, etc.)
+ 6. What proportion of energy is sustainable? (Can we predict into the future?)
